@@ -1,0 +1,21 @@
+div.cours{
+
+    margin: 20px;
+    border: black 2px solid ;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-flex;
+
+
+}
+.cours:hover{
+    background-color: rgba(0, 0, 0, 0.253);
+}
+
+a{
+    color: black;
+}
+a:hover{
+    background-color: transparent;
+
+}
